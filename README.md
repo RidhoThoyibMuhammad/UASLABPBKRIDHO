@@ -1,6 +1,5 @@
-#UAS LAB PBK
-Nama : Nurfauzan Hanif
-NPM  : 213510360      
+UAS LAB PBK
+Ridho Thoyib Muhammad 203510392
 # widget-example
 
 ## Project setup
